@@ -2,6 +2,8 @@
 
 A simple and efficient cryptocurrency tracking app that allows users to monitor the prices of various cryptocurrencies in real-time. This project provides a seamless interface to track the latest market trends.
 
+**VIDEO LINK:** https://drive.google.com/file/d/1lFGbwWDtlNjkvqd5YoRbs2uLbaHtT1q4/view?usp=sharing
+
 🚀 Setup Instructions
 
 ! Prerequisites

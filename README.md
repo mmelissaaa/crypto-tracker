@@ -36,12 +36,14 @@ npm start
 This will launch the application in your default web browser, typically available at http://localhost:3000.
 
 **Environment Variables**
+
 If your project requires API keys or specific environment configurations, ensure to set them up in a .env file.
 
 Example:
 REACT_APP_API_KEY=your-api-key-here
 
 🛠 **Tech Stack & Architecture**
+
 Tech Stack
 Frontend:
 
